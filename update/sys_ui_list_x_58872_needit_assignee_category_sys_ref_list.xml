@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>category_name</element>
-            <list_id display_value="x_58872_needit_assignee_category" element="NULL" name="x_58872_needit_assignee_category" parent="NULL" relationship="NULL" sys_domain="global" view="9a4d1072db010010fd449c68db9619cd">ff10b1f2dba90410fd449c68db96194e</list_id>
+            <list_id display_value="x_58872_needit_assignee_category" element="NULL" name="x_58872_needit_assignee_category" parent="NULL" relationship="NULL" sys_domain="global" view="ba543073db210010fd449c68db9619cd">ff10b1f2dba90410fd449c68db96194e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -40,7 +40,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-12-09 21:45:48</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">9a4d1072db010010fd449c68db9619cd</view>
+            <view display_value="Reference List" name="sys_ref_list">ba543073db210010fd449c68db9619cd</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
